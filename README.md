@@ -1,6 +1,6 @@
 # Curated_Repository
 
-A selection of some programs I've written over the course of my research that were particularly challenging or interesting.
+A selection of some programs I've written over the course of my research and learning that were particularly challenging or interesting to implement.
 
 1. Implementation of Frontier based BDD construction algorithms: 
 
