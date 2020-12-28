@@ -2,7 +2,7 @@
 
 A selection of some programs I've written over the course of my research and learning that were particularly challenging or interesting to implement.
 
-1. Implementation of Frontier based BDD construction algorithms: 
+1. Implementation of Frontier based Binary Decision Diagram construction algorithms: 
 
    a. For simple paths: https://github.com/LorenzoNajt/TinyProjects/blob/master/ConnectedPartitionSampling/BDD/SIMPATH.py
 
