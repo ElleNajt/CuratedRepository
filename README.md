@@ -8,7 +8,7 @@ A selection of some programs I've written over the course of my research and lea
 
    b. For connected partitions: https://github.com/LorenzoNajt/TinyProjects/blob/master/ConnectedPartitionSampling/BDD/Flats.py
 
-   (Note: These were extremely finicky to code correctly. I ended up validating them against OEIS, but I'd like to find a better system if I have to program something similar in the future.)
+   (Note: These were extremely finicky to code correctly. I ended up validating them against OEIS, but I'd like to find a better system if I have to program something similar in the future. In general it would be better to use Graphillion for this exact task.)
 
 2. Rejection sampling to get connected graph partitions: https://github.com/LorenzoNajt/TinyProjects/blob/master/ConnectedPartitionSampling/BDD/Fast_Rejection_sampling.py
 
